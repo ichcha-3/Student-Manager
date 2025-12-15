@@ -1,0 +1,3 @@
+Hello
+I love Python
+Learning step by step
