@@ -1,3 +1,4 @@
+
 # Student Manager
 
 A Python project to manage student records using CSV files.
@@ -44,6 +45,8 @@ A Python project to manage student records using CSV files.
 The following flowchart explains the logic of the Student Manager program:
 
 ![Student Manager Flowchart](flowchart.png)
+
+
 
 
 
